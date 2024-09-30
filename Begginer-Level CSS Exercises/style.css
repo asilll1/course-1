@@ -62,7 +62,7 @@ img {
 }
 
 /* 13. Fixed Navigation Bar */
-nav {
+.style {
     position: fixed;
     top: 0;
     width: 100%;

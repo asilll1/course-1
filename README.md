@@ -1,27 +1,7 @@
-Here's a cool README for your **Beginner-Level HTML Exercises** project on GitHub:
-
----
-
 # Beginner-Level HTML Exercises 🚀
 
 Welcome to **Beginner-Level HTML Exercises**! This repository is designed to help you practice and master fundamental HTML skills through a series of hands-on exercises. Whether you're just starting or want to brush up on your skills, these tasks will guide you through creating various elements of a webpage.
 
-## 📝 Table of Contents
-
-- [Getting Started](#getting-started)
-- [Beginner-Level Exercises](#beginner-level-exercises)
-- [Intermediate-Level Exercises](#intermediate-level-exercises)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-
-## 🔧 Getting Started
-
-To get started with these exercises, simply clone this repository and open the `.html` files in your favorite web browser or text editor.
-
-```bash
-git clone https://github.com/your-username/beginner-level-html-exercises.git
-cd beginner-level-html-exercises
-```
 
 ## 🌟 Beginner-Level Exercises
 
@@ -149,17 +129,4 @@ cd beginner-level-html-exercises
 20. **Use the `<canvas>` Tag**
     - Draw a simple shape like a rectangle or circle using the `<canvas>` tag.
 
----
-
-## 🤝 How to Contribute
-
-Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
-
-## 🛠 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 🎉
 
