@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal Popup</title>
+    <style>
+        .modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        }
+        .modal.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<main>
+    <h2>Modal Popup</h2>
+    <button onclick="document.getElementById('myModal').classList.toggle('active')">Open Modal</button>
+    <div id="myModal" class="modal">
+        <h3>Modal Title</h3>
+        <p>This is a modal popup.</p>
+        <button onclick="document.getElementById('myModal').classList.toggle('active')">Close Modal</button>
+    </div>
+</main>
+</body>
+</html>
