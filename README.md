@@ -1,4 +1,4 @@
-# Beginner-Level HTML Exercises 🚀
+# HTML Exercises 🚀
 
 Welcome to **Beginner-Level HTML Exercises**! This repository is designed to help you practice and master fundamental HTML skills through a series of hands-on exercises. Whether you're just starting or want to brush up on your skills, these tasks will guide you through creating various elements of a webpage.
 
