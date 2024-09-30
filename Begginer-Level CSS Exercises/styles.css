@@ -1,13 +1,110 @@
+/* 1. Change Text Color */
 h1 {
     color: blue;
 }
 
+/* 2. Set Background Color */
 body {
     background-color: lightgray;
 }
 
+/* 3. Style Paragraphs */
 p {
     font-size: 16px;
     font-family: Arial, sans-serif;
 }
 
+/* 4. Add Padding and Margin */
+div {
+    padding: 10px;
+    margin: 20px;
+}
+
+/* 5. Center Align Text */
+h2 {
+    text-align: center;
+}
+
+/* 6. Create a Border */
+img {
+    border: 2px solid black;
+}
+
+/* 7. Use a CSS Class */
+.highlight {
+    font-weight: bold;
+}
+
+/* 8. Style a Button */
+button:hover {
+    background-color: green;
+    color: white;
+}
+
+/* 9. Change Font Color for Body (Example for external CSS link) */
+body {
+    color: black;
+}
+
+/* 10. Change Font Weight for h3 */
+h3 {
+    font-weight: bold;
+}
+
+/* 11. Apply Box Shadow */
+img {
+    box-shadow: 5px 5px 10px gray;
+}
+
+/* 12. Universal Selector */
+* {
+    box-sizing: border-box;
+}
+
+/* 13. Fixed Navigation Bar */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+/* 14. Hover Effect for Links */
+a:hover {
+    color: red;
+}
+
+/* 15. Line Height */
+p {
+    line-height: 1.6;
+}
+
+/* 16. Remove Underline from Links */
+a {
+    text-decoration: none;
+}
+
+/* 17. Set Maximum Width for Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* 18. Style Multiple Selectors */
+h1, h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+/* 19. Display Block for Images */
+img {
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* 20. Change Cursor for Buttons */
+button {
+    cursor: pointer;
+}
