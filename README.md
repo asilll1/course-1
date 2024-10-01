@@ -141,9 +141,3 @@
 5. **Create a CSS Tooltip**  
    Create a tooltip that appears when the user hovers over a word or icon.
 
----
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
-Feel free to contribute or suggest new exercises!
